@@ -1,0 +1,6 @@
+services:
+
+  level5:
+    build: ./
+    ports:
+      - 5000:5000
